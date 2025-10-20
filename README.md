@@ -10,7 +10,7 @@ Software web para o gerenciamento de equipamentos da sala 102, com o objetivo de
 - [Casos de Uso](DOCS/casos_de_uso.md)
 - [Requisitos](DOCS/requisitos.md)
 - [Histórias de Usuário](DOCS/historias_usuario.md)
-- [Critérios de Aceitação](DOCS/criterios_aceitacao.md)
+- [Critérios de Aceitação](DOCS/criterios_aceitação.md)
 ## Status
 Desenvolvimento
 ## Equipe
