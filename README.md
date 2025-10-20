@@ -14,8 +14,8 @@ Breve descrição do projeto, seu objetivo e público-alvo.
 ## Status
 Descrever se o projeto está na fase de planejamento, desenvolvimento ou teste.
 ## Equipe
-Alex Fernandes de Araújo Leite
-Guilherme Augusto da Costa Souza
-Gustavo Henrique Malta Ferreira
-Kauan Pereira da Silva
-Isaías Amorim da Silva
+Alex Fernandes de Araújo Leite,
+Guilherme Augusto da Costa Souza,
+Gustavo Henrique Malta Ferreira,
+Kauan Pereira da Silva,
+Isaías Amorim da Silva,
