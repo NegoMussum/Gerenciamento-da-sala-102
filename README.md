@@ -12,7 +12,7 @@ Software web para o gerenciamento de equipamentos da sala 102, com o objetivo de
 - [Histórias de Usuário](docs/historias_usuario.md)
 - [Critérios de Aceitação](docs/criterios_aceitacao.md)
 ## Status
-desenvolvimento
+Desenvolvimento
 ## Equipe
 Alex Fernandes de Araújo Leite,
 Guilherme Augusto da Costa Souza,
