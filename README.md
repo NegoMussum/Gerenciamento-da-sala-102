@@ -3,4 +3,4 @@ Equipe: Guilherme,
 Gustavo Henrique,
 Isaias,
 Alex,
-Kauan,
+Kauan
