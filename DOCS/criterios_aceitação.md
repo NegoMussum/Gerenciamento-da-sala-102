@@ -1,3 +1,4 @@
 
 
-- [Casos de Uso](Assets/criterios_de_aceitação.png)
+- [criterios de aceitação](Assets/criterios_de_aceitação.png)
+
