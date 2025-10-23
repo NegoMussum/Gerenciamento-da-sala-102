@@ -1,6 +1,7 @@
 
 
-- [criterios de aceitação](../Assets/criterios_de_aceitação.png)
+- [Criterios de Aceitação](../Assets/criterios_de_aceitação.png)
+
 
 
 
