@@ -1,4 +1,5 @@
-- [Requisitos](Assets/Requisitos.png)
+- [Requisitos](../Assets/Requisitos.png)
+
 
 
 
